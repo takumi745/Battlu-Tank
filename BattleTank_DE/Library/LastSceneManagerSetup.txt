@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/tzouza/Desktop/game/I's/I's_DE/Assets/ALLScene/GameCredit.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
